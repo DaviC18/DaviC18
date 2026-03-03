@@ -9,7 +9,7 @@
 <ul>
   <li>🔥Junior Web Developer</li>
   <li>🔭I'm not currently working but looking for a job</li>
-  <li>🌱I'm currently learning HTML5, CSS3, TAILWIND, JS, NODE.JS, REACT.JS</li>
+  <li>🌱I'm currently learning TAILWIND, JS, TS, NODE.JS, REACT.JS, NEXT.JS, Fastify, Drizzle, Zod</li>
   <li>👊I wanna become a Senior Full-stack Dev</li>
   <li>🎲fun fact: I love F1!!!</li>
   <li>📫How to reach me: @DaviC18</li>
