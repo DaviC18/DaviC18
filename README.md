@@ -144,7 +144,7 @@ Desenvolvedor full-stack em formação, focado na criação de aplicações reai
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davic18&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davic18&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
