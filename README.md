@@ -1,43 +1,151 @@
-<h1 align="left">Hi there, I'm Davi Curty!</h1>
+<h1 align="left">☕Davi Curty</h1>
+
+<p align="left">
+Desenvolvedor full-stack em formação, focado na criação de aplicações reais com tecnologias modernas.
+</p>
 
 ###
 
-<img align="right" height="250" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp"  />
+## 🚀 Sobre Mim
 
-###
+- 🔥 Desenvolvedor Full-Stack Júnior
+- 🧠 Atualmente desenvolvendo projetos reais (não apenas tutoriais)
+- 🎯 Focado em **Next.js, GSAP, Three.js, Shadcn UI, Node.js, Fastify, Drizzle ORM e TypeScript**
+- 📚 Sempre aprendendo, atualmente me aprofundando em **design de sistemas e arquitetura de backend**
+- 🏎️ Curiosidade: Sou obcecado por Fórmula 1
 
-<ul>
-  <li>🔥Junior Web Developer</li>
-  <li>🔭I'm not currently working but looking for a job</li>
-  <li>🌱I'm currently learning TAILWIND, JS, TS, NODE.JS, REACT.JS, NEXT.JS, Fastify, Drizzle, Zod</li>
-  <li>👊I wanna become a Senior Full-stack Dev</li>
-  <li>🎲fun fact: I love F1!!!</li>
-  <li>📫How to reach me: @DaviC18</li>
-</ul>
+---
 
-
-###
+### 🤖 Linguagens e Tecnologias
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  href="https://www.google.com"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img 
+      align="left" 
+      alt="HTML"
+      title="HTML" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://devicon-website.vercel.app/api/html5/original.svg"
+  />
+  <img 
+      align="left" 
+      alt="CSS"
+      title="CSS" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://devicon-website.vercel.app/api/css3/original.svg"
+  />
+  <img 
+      align="left" 
+      alt="JavaScript"
+      title="JavaScript" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://devicon-website.vercel.app/api/javascript/original.svg"
+  />
+  <img 
+      align="left" 
+      alt="TypeScript"
+      title="TypeScript" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://devicon-website.vercel.app/api/typescript/original.svg"
+  />
+  <img 
+      align="left" 
+      alt="Figma"
+      title="Figma" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://devicon-website.vercel.app/api/figma/original.svg"
+  />
+  <img 
+      align="left" 
+      alt="React"
+      title="React" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://devicon-website.vercel.app/api/react/original.svg"
+  />
+  <img 
+      align="left" 
+      alt="Next.js"
+      title="Next.js" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://devicon-website.vercel.app/api/nextjs/original.svg?color=%23FFFFFF"
+  />
+  <img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+  />
+  <img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/nodejs/original.svg"
+  />
+  <img 
+    align="left" 
+    alt="Npm" 
+    title="Npm"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"
+  />
+  <img 
+    align="left" 
+    alt="Express" 
+    title="Express"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF"
+  />
+  <img 
+    align="left" 
+    alt="Postgresql" 
+    title="Postgresql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/postgresql/original.svg"
+  />
+  <img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/git/original.svg"
+  />
 </div>
 
-###
+<br/>
+<br/>
 
-<br clear="both">
+### 📊 Estatísticas
 
-<img src="https://raw.githubusercontent.com/DaviC18/DaviC18/output/snake.svg" alt="Snake animation" />
+<p>
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=davic18&theme=github_dark" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davic18&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
 ###
