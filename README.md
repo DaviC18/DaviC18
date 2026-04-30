@@ -1,22 +1,22 @@
 <h1 align="left">☕Davi Curty</h1>
 
 <p align="left">
-Desenvolvedor full-stack em formação, focado na criação de aplicações reais com tecnologias modernas.
+Full-stack developer in progress, focused on building real-world applications with modern technologies.
 </p>
 
 ###
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-- 🔥 Desenvolvedor Full-Stack Júnior
-- 🧠 Atualmente desenvolvendo projetos reais (não apenas tutoriais)
-- 🎯 Focado em **Next.js, GSAP, Three.js, Shadcn UI, Node.js, Fastify, Drizzle ORM e TypeScript**
-- 📚 Sempre aprendendo, atualmente me aprofundando em **design de sistemas e arquitetura de backend**
-- 🏎️ Curiosidade: Sou obcecado por Fórmula 1
+- 🔥 Junior Full-Stack Developer
+- 🧠 Currently building real projects (not just tutorials)
+- 🎯 Focused on **Next.js, Node.js, Fastify, Drizzle ORM, and TypeScript**
+- 📚 Always learning, currently diving deeper into **system design and backend architecture**
+- 🏎️ Fun fact: I’m obsessed with Formula 1
 
----
+###
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <div align="left">
   <img 
@@ -128,7 +128,9 @@ Desenvolvedor full-stack em formação, focado na criação de aplicações reai
 <br/>
 <br/>
 
-### 📊 Estatísticas
+###
+
+## 📊 Estatísticas
 
 <p>
 
