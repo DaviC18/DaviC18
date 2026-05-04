@@ -143,7 +143,6 @@ Full-stack developer in progress, focused on building real-world applications wi
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=davic18&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-  <img src="https://raw.githubusercontent.com/DaviC18/DaviC18/output/snake.svg" width="692" alt="Snake animation" />
 </p>
 
 ###
