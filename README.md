@@ -6,13 +6,15 @@ Full-stack developer in progress, focused on building real-world applications wi
 
 ###
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
 - 🔥 Junior Full-Stack Developer
 - 🧠 Currently building real projects (not just tutorials)
 - 🎯 Focused on **Next.js, Node.js, Fastify, Drizzle ORM, and TypeScript**
 - 📚 Always learning, currently diving deeper into **system design and backend architecture**
 - 🏎️ Fun fact: I’m obsessed with Formula 1
+
+
 
 ###
 
@@ -134,20 +136,14 @@ Full-stack developer in progress, focused on building real-world applications wi
 
 <p>
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=davic18&theme=github_dark" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=davic18&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+  <img src="https://raw.githubusercontent.com/DaviC18/DaviC18/output/snake.svg" width="692" alt="Snake animation" />
 </p>
 
 ###
